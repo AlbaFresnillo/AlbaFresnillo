@@ -5,7 +5,7 @@ I'm Web Developer and Financial Analist with a degree in Economics, a master's d
 - 👀 I’m interested in Web Development and Finance
 - 🌱 I'm currently working as Frontend Developer
 - 💼 I worked in the backend with: mySQL and Node.js
-- 💼 I worked in the frontend with: React, ViteJS, Angular, VueJS, TailwindCSS and CSS
+- 💼 I worked in the frontend with: JavaScript, TypeScript, React, ViteJS, Angular, VueJS, TailwindCSS and CSS
 - 📫 How to reach me in LinkedIn: https://www.linkedin.com/in/albafresnilloarevalo/
 
 <!---
