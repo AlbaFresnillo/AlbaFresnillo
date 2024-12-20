@@ -2,7 +2,7 @@
 
 I'm Web Developer and Financial Analist with a degree in Economics, a master's degree in Finance and a bootcamp in Web Programming
 
-- 👀 I’m interested in Web Development and Finance
+- 👀 I’m interested in Web Development, Digital Transformation and Finance
 - 🌱 I'm currently working as Frontend Developer
 - 💼 I worked in the backend with: mySQL, Node.js and Express.js
 - 💼 I worked in the frontend with: JavaScript, TypeScript, React, ViteJS, Angular, VueJS, TailwindCSS and CSS
